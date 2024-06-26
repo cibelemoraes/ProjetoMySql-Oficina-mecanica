@@ -40,3 +40,5 @@ sql
 
 ## MySQL Workbench
 O MySQL Workbench é uma ferramenta visual que permite a modelagem, criação e administração de bancos de dados MySQL. Oferece funcionalidades como design de diagramas ER, execução de consultas SQL, gerenciamento de usuários e configuração de backups. Essa modelagem é uma modelagem relacional, que organiza dados em tabelas relacionadas entre si por chaves estrangeiras.
+
+projeto desenvolvido por cibele gomes domingos moraes lima 
